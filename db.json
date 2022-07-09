@@ -1,0 +1,31 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "products":[
+        {
+            "name" : "SmartPhone",
+            "price": 30,
+            "id" : 0
+        },
+        {
+            "name" : "Watch",
+            "price" : 20,
+            "id" : 1
+        },
+        {
+            "name" : "Shirt",
+            "price" : 50,
+            "id" : 2
+        },
+        {
+            "name" : "Pants",
+            "price" : 100,
+            "id" : 3
+        }
+]
+  }
